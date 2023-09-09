@@ -200,7 +200,7 @@ btnLogin.addEventListener("click", function (e) {
   );
   if (currentuser?.pin === Number(inputLoginPin.value)) {
     // display UI and display welcome Message
-    labelWelcome.textContent = `Good Evening,  ${currentuser.owner.split(" ")[0]
+    labelWelcome.textContent = `Hello,  ${currentuser.owner.split(" ")[0]
       }`;
     containerApp.style.opacity = "100";
     // clear field after login
