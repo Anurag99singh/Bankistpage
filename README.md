@@ -5,7 +5,6 @@ Welcome to Bakist, a simple banking application that allows users to manage thei
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
 
 ## Features
 
